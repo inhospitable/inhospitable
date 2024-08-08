@@ -7,7 +7,7 @@
 
 
 
-https://github.com/user-attachments/assets/70b8286a-c1e8-4456-9ec4-e8d15a2cd324
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9ji3alpfzwgxcwcd6legapuzt&cover_image=true&theme=default&show_offline=false&background_color=1c3531&interchange=false&bar_color=000000)](https://github.com/kittinan/spotify-github-profile)
 
 
 
